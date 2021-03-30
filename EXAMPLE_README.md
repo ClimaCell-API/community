@@ -2,25 +2,21 @@
 ========
 [STATUS BADGES]
 
-#### [LANGUAGE SDK/WRAPPER/LIBRARY NAME] for ClimaCell API ####
+#### [LANGUAGE SDK/WRAPPER/LIBRARY NAME] for Tomorrow.io API ####
 
-The aim of the project is to [DESCRIPTION] for [ClimaCell API](https://developer.climacell.co/). 
+The aim of the project is to [DESCRIPTION] for [Tomorrow.io API](https://app.tomorrow.io/). 
 
 ### What's Includes ###
-- [ ] [Realtime](https://developer.climacell.co/v3/reference#get-realtime)
-- [ ] [Nowcast](https://developer.climacell.co/v3/reference#get-nowcast)
-- [ ] [Hourly](https://developer.climacell.co/v3/reference#get-hourly)
-- [ ] [Daily](https://developer.climacell.co/v3/reference#get-daily)
-- [ ] [Historical Station](https://developer.climacell.co/v3/reference#get-historical-climacell)
-- [ ] [Historical ClimaCell](https://developer.climacell.co/v3/reference#get-historical-station)
+- [ ] [GET Timeline](https://docs.tomorrow.io/v4/reference/get-timelines)
+- [ ] [POST Timelines](https://docs.tomorrow.io/v4/reference/post-timelines)
 
 ### Usage ###
 [USAGE EXAMPLE BELOW]
-This code imports the SDK and initializes it with your personal api key. It then makes a request to ClimaCell's endpoints with url parameters, waits for response and handles returned timesteps.
+This code imports the SDK and initializes it with your personal api key. It then makes a request to Tomorrow.io's endpoints with url parameters, waits for response and handles returned timesteps.
 
 ```javascript
-import climacell from 'MODULE_NAME';
-climacell.realtime({fields: ["precipitation"], lat: 22, lon: 22]}).then((response)=> {
+import tomorrow from 'MODULE_NAME';
+tomorrow.realtime({fields: ["precipitation"], lat: 22, lon: 22]}).then((response)=> {
     // DO WHATEVER YOU WANT HERE
 })
 ```
