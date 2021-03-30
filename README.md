@@ -23,7 +23,7 @@ To feature your project to our [Community Projects](https://docs.tomorrow.io/ref
 
 ### Collaboration
 
-Feel invited to join the [public chat](https://spectrum.chat/tomorrow-io/join/774eb1cc-40b8-4d3d-964d-5756ee95f6ff) or email us directly on [developer@tomorrow.io](mailto:developer@tomorrow.io) to exchange ideas, ask questions, receive hints and tips, and extend your experience with the Tomorrow.io API.
+Feel invited to email us directly on [developer@tomorrow.io](mailto:developer@tomorrow.io) to exchange ideas, ask questions, receive hints and tips, and extend your experience with the Tomorrow.io API.
 
 ## Guidelines and templates
 
