@@ -6,7 +6,7 @@
 
 The aim of the project is to [DESCRIPTION] for [Tomorrow.io API](https://app.tomorrow.io/). 
 
-### What's Includes ###
+### What's Included ###
 - [ ] [GET Timeline](https://docs.tomorrow.io/v4/reference/get-timelines)
 - [ ] [POST Timelines](https://docs.tomorrow.io/v4/reference/post-timelines)
 
